@@ -1,6 +1,13 @@
 # aps-da4acad-dgn2dwg2pdf
 
-## This is a work in progress
+In this repo I'm sharing [Design Automation](https://aps.autodesk.com/developer/overview/design-automation-api) activities and workitems payload that you can use to cover two steps:
+
+1. Convert a dgn file to dwg
+2. Convert a dwg to pdf
+
+You can check the workflows in the video below:
+
+### [Video Here]()
 
 ## DGN TO DWG
 Activity below:
